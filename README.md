@@ -1,0 +1,1 @@
+"Basic Odin Project practicing and using basic html skills learnt in earlier lessons using concepts such as lists,head tag,body tag etc. "
